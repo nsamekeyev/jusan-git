@@ -56,3 +56,4 @@ int main() {
 | WhatsApp  | [Ссылка](whats.app) | 30 минут  |
 | Telegram  | [Ссылка](tg.me)     | 5 минут   |
 
+Скрипт username.sh выводит ваше имя и фамилию на латинском.
